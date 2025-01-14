@@ -12,5 +12,5 @@
 <br>
 
 <div align="center">
-    <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+    <img src="img/1334109.jpeg" width="1000px">
 </div>
