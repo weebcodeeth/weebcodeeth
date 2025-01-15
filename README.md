@@ -14,3 +14,15 @@
 <div align="center">
     <img src="img/1334109.jpeg" width="1000px">
 </div>
+
+
+[![watch when you are confused](https://github.com/weebcodeeth/weebcodeeth/tree/main/img/Isagi.jpeg)](https://github.com/user-attachments/assets/d04bc818-2586-4a86-918e-ce50a3bd8b38)
+
+
+
+
+
+
+
+
+
